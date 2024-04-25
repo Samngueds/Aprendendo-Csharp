@@ -1,0 +1,89 @@
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+
+
+
+
+
+namespace Hellow_World
+{
+    class Program
+    {
+        static void Main(string[] args) //função principal , ela e executada primerio
+        {
+            
+            // tipos de variaveis
+
+            // int - serve pra armazena numeros inteiros
+
+            // float - numero "quebrados" se parados por ponto
+
+            // Bool - so pode ter dois estados true ou false
+
+            // string - variavel  do tipo texto "" sem aspa duplas
+
+            // char - e feito com aspas simples 'a' como diz o nome e pra um elemento
+
+            // E como declara?  voce declara ela c depois do tipo definido 
+
+            // elas  não podem ser defininas com caractes especiais
+
+            // A - Z pode
+            // numeros no começo não pode
+            //_ pode 
+            // e nao pode definir nada que seja da sintax da linguagem
+
+
+
+           
+            // pra reatribui um valo e so por o nome da variavel
+
+
+
+            // forma mais simples sem espesificar o tipo de dado de  uma variavel
+
+            //  usando var  exemplo:
+
+            //  var cor_favorita = "azul"; assim definimos uma varivel sem  da o dados a ela
+
+            var cor_favorita = "azul";
+
+
+            // lembrando que depois que declara uma  varivel  e impossivel muda ela depois
+
+
+            // forma de declaração com tipagem dinamica ae sim e possivel muda o tipo dela
+
+            dynamic cor_favorita2 = "vermelho";
+
+
+            Console.WriteLine(cor_favorita2);
+
+
+            // usando o dynamic e possivel muda o tipo de dados de uma varivel
+
+            cor_favorita2 = 01010100101;
+
+            // nisso foi atribuido o valor int a variavel
+
+            Console.WriteLine(cor_favorita2);
+
+
+
+
+            Console.ReadLine();
+
+
+
+
+        }
+
+    } // fim do progama
+}
