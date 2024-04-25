@@ -1,0 +1,87 @@
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+
+
+
+
+
+namespace Hellow_World
+{
+    class Program 
+    {
+        static void Main(string[] args) //função principal , ela e executada primerio
+        {
+            // tipos de variaveis
+
+            // int - serve pra armazena numeros inteiros
+
+            // float - numero "quebrados" se parados por ponto
+
+            // Bool - so pode ter dois estados true ou false
+
+            // string - variavel  do tipo texto "" sem aspa duplas
+
+            // char - e feito com aspas simples 'a' como diz o nome e pra um elemento
+
+            // E como declara?  voce declara ela c depois do tipo definido 
+
+            // elas  não podem ser defininas com caractes especiais
+
+            // A - Z pode
+            // numeros no começo não pode
+            //_ pode 
+            // e nao pode definir nada que seja da sintax da linguagem
+
+
+
+            //exemplo :
+
+            // int segunda_guerra_mundial = 1942; 
+
+
+            //varial do tipo  Init :
+
+            int segunda_guerra_mundial = 1942;
+
+
+            //varial do tipo string :
+
+            string cor_favorita = "azul";
+
+            // variael do tipo float 
+            // obs : a variavel do tipo float so fuciona vc colocando um F depois dos numeros
+
+            float peso = 56.5f;
+
+
+            bool segunda_guerra_mundial_Aconteceu = true;
+
+
+            Console.WriteLine(segunda_guerra_mundial);
+            Console.WriteLine(cor_favorita);
+            Console.WriteLine(segunda_guerra_mundial_Aconteceu);
+            Console.WriteLine(peso);
+
+            // pra reatribui um valo e so por o nome da variavel
+
+            cor_favorita = "roxo";
+
+            Console.WriteLine(cor_favorita);
+
+            Console.ReadLine();
+
+
+
+
+
+        }
+
+    } // fim do progama
+}
