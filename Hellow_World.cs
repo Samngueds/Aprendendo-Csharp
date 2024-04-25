@@ -1,5 +1,5 @@
 //using  importa modulos
-// modulos são coisas adicioneis 
+// modulos são coisas adicionaveis
 // tipo  bibliotecas que você usa no seu progama
 
 using System;
