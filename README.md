@@ -11,8 +11,7 @@ Este repositório contém anotações e recursos para aprender a linguagem de pr
 
 2. **Estruturas de Controle**
    - `if`, `else`, `else if`
-   - `switch`, `case`, `break`
-   - `for`, `while`, `do-while`
+   - `for`, `while`,
 
 3. **Métodos e Funções**
    - Declaração de métodos
@@ -29,14 +28,10 @@ Este repositório contém anotações e recursos para aprender a linguagem de pr
    - Exceções padrão e personalizadas
 
 6. **Arrays e Coleções**
-   - Arrays unidimensionais e multidimensionais
+   - Arrays 
    - Listas (`List<>`), Dicionários (`Dictionary<>`)
 
-7. **Strings e Manipulação de Texto**
-   - Concatenação
-   - Métodos de manipulação de strings
-
-8. **Programação Orientada a Eventos**
+7. **Programação Orientada a Eventos**
    - Delegados e eventos básicos
 
 ## Recursos de Aprendizado Adicionais
