@@ -18,20 +18,11 @@ Este repositório contém anotações e recursos para aprender a linguagem de pr
    - Parâmetros e argumentos
    - Retorno de valores
 
-4. **Classes e Objetos**
-   - Definição de classes
-   - Instanciação de objetos
-   - Atributos e métodos de classe
-
-5. **Tratamento de Exceções**
-   - `try`, `catch`, `finally`
-   - Exceções padrão e personalizadas
-
-6. **Arrays e Coleções**
+4. **Arrays e Coleções**
    - Arrays 
    - Listas (`List<>`), Dicionários (`Dictionary<>`)
 
-7. **Programação Orientada a Eventos**
+5. **Programação Orientada a Eventos**
    - Delegados e eventos básicos
 
 ## Recursos de Aprendizado Adicionais
