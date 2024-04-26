@@ -13,10 +13,10 @@ Este repositório contém anotações e recursos para aprender a linguagem de pr
    - `if`, `else`, `else if`
    - `for`, `while`,
 
-3. **Métodos e Funções**
+3. **Funções**
    - Declaração de métodos
-   - Parâmetros e argumentos
-   - Retorno de valores
+   - Parâmetros 
+   - Retorno 
 
 4. **Arrays e Coleções**
    - Arrays 
