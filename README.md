@@ -22,8 +22,11 @@ Este repositório contém anotações e recursos para aprender a linguagem de pr
    - Arrays 
    - Listas (`List<>`), Dicionários (`Dictionary<>`)
 
-5. **Programação Orientada a Eventos**
-   - Delegados e eventos básicos
+5. **Estrutura de repetição**
+   - While
+   - Do while
+   - Foreach
+   - For 
 
 ## Recursos de Aprendizado Adicionais
 
