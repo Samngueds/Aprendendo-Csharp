@@ -148,6 +148,3 @@ Cada pasta neste repositório contém exemplos de código e explicações detalh
 🎉 Contribuições são **bem-vindas**! Se você tem sugestões de melhorias, novos exemplos ou ajustes, sinta-se à vontade para abrir uma *pull request*. Vamos fazer desse repositório um ótimo lugar para aprender juntos! 🎓✨
 
 
-## 👩‍💻 Autor
-
-[Samn Gueds](https://github.com/Samngueds) 👩‍💻
