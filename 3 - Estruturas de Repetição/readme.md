@@ -6,7 +6,7 @@
 
 Neste arquivo, abordaremos as estruturas de repetição em C#. Elas são fundamentais para a execução de um bloco de código várias vezes, facilitando a automação de tarefas e o processamento de dados.
 
-## Exemplos
+## Exemplos:
 
 ### 1. **do while.cs**
 
